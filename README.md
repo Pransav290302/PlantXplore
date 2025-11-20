@@ -36,8 +36,7 @@ The long-term goal is to create a shared, community-driven ecosystem where farme
 ![IMG-20231216-WA0005](https://github.com/devarshpatel1506/PlantiX/assets/69602242/75d89a54-e95d-4e69-9aae-d33eca2854af)  
 ![IMG-20231216-WA0007](https://github.com/devarshpatel1506/PlantiX/assets/69602242/e4e21be2-8b9d-4c83-9fd4-49e1fb1934ee)  
 ![IMG-20231216-WA0007](https://github.com/devarshpatel1506/PlantiX/assets/69602242/549f48ff-f159-43e6-951e-5a762eb31eda)  
-![IMG-20231216-WA0008](https://github.com/devarshpatel1506/PlantiX/assets/69602242/908bab1d-9568-4734-81ab-3f49820956c8)  
-![IMG-20231216-WA0010](https://github.com/devarshpatel1506/PlantiX/assets/69602242/4d46aa3d-472d-449a-91c8-3a9ae221b1a0)  
+![IMG-20231216-WA0008](https://github.com/devarshpatel1506/PlantiX/assets/69602242/908bab1d-9568-4734-81ab-3f49820956c8)   
 ![IMG-20231216-WA0012](https://github.com/devarshpatel1506/PlantiX/assets/69602242/65e67fd8-6130-4881-8072-b5a995bb8a42)  
 ![IMG-20231216-WA0004](https://github.com/devarshpatel1506/PlantiX/assets/69602242/4f72a8e9-a34c-4869-8963-44cb9dcf408f)  
 
