@@ -90,7 +90,7 @@ Goodleaf also hosts a structured discussion forum, which is one of the most valu
 
 ## Status
 
-The project is currently **in progress**, under continuous enhancement, and is regularly updated to better meet the needs of farmers worldwide.
+The project is currently **in progress**, under continuous enhancement and is regularly updated to better meet the needs of farmers worldwide.
 
 ## Inspiration
 
