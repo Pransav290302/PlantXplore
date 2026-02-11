@@ -1,6 +1,6 @@
 # PlantXplore
 
-PlantXplore is a global initiative that helps farmers connect, collaborate, and learn from one another to improve agricultural practices worldwide.
+PlantXplore is a global initiative that helps farmers connect, collaborate and learn from one another to improve agricultural practices worldwide.
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ PlantXplore is a global initiative that helps farmers connect, collaborate, and 
 
 ## General Information
 
-According to FAO, more than 60% of the world’s population relies on agriculture for its livelihood. This dependence ultimately rests on farmers, who form the backbone of our global food system. After thorough exploration, there appeared to be no dedicated web platform that connects farmers globally in the way PlantXplore (powered by Goodleaf) aims to do, leaving an important gap in knowledge exchange and community building.  
+According to FAO, more than 60% of the world’s population relies on agriculture for its livelihood. This dependence ultimately rests on farmers, who form the backbone of our global food system. After thorough exploration, there appeared to be no dedicated web platform that connects farmers globally in the way PlantXplore aims to do, leaving an important gap in knowledge exchange and community building.  
 
 PlantXplore addresses this by providing a virtual meeting point for farmers around the world to share experiences, challenges, and solutions. Over time, the platform also plans to integrate agricultural experts who can offer free consultations, ensuring farmers receive fast, relevant, and practical advice. In many regions, low crop yield is closely tied to the lack of timely guidance and access to best practices; PlantXplore seeks to reduce this barrier and contribute to stronger, more resilient agriculture worldwide.
 
